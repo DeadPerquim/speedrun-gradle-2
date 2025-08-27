@@ -1,1 +1,2 @@
-# speedrun-gradle-2
+Daniel Bentes Perquim
+Projeto daora da massa
